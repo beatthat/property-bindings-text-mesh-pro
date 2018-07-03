@@ -1,0 +1,730 @@
+{
+  "packages": {
+    "collections-ext": {
+      "name": "collections-ext",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/collections-ext.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "collections-ext@github:beatthat/collections-ext#semver:^1.0.0",
+        "name": "collections-ext",
+        "escapedName": "collections-ext",
+        "rawSpec": "github:beatthat/collections-ext#semver:^1.0.0",
+        "saveSpec": "github:beatthat/collections-ext#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/collections-ext/Runtime/collections-ext",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/collections-ext/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/collections-ext",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/collections-ext",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/collections-ext",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/collections-ext/Runtime/collections-ext"
+      }
+    },
+    "comments": {
+      "name": "comments",
+      "version": "1.0.2",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/comments.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "comments@github:beatthat/comments#semver:^1.0.0",
+        "name": "comments",
+        "escapedName": "comments",
+        "rawSpec": "github:beatthat/comments#semver:^1.0.0",
+        "saveSpec": "github:beatthat/comments#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/comments/Runtime/comments",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/comments/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/comments",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/comments",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/comments",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/comments/Runtime/comments"
+      }
+    },
+    "common-unityevent-types": {
+      "name": "common-unityevent-types",
+      "version": "1.0.2",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/unity-common-event-types.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "common-unityevent-types@github:beatthat/common-unityevent-types#semver:^1.0.0",
+        "name": "common-unityevent-types",
+        "escapedName": "common-unityevent-types",
+        "rawSpec": "github:beatthat/common-unityevent-types#semver:^1.0.0",
+        "saveSpec": "github:beatthat/common-unityevent-types#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/common-unityevent-types/Runtime/common-unityevent-types",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/common-unityevent-types/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/common-unityevent-types",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/common-unityevent-types",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/common-unityevent-types",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/common-unityevent-types/Runtime/common-unityevent-types"
+      }
+    },
+    "pools": {
+      "name": "pools",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/pools.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "pools@github:beatthat/pools#semver:^1.0.0",
+        "name": "pools",
+        "escapedName": "pools",
+        "rawSpec": "github:beatthat/pools#semver:^1.0.0",
+        "saveSpec": "github:beatthat/pools#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/pools/Runtime/pools",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/pools/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/pools",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/pools",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/pools",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/pools/Runtime/pools"
+      }
+    },
+    "color-ext": {
+      "name": "color-ext",
+      "version": "1.0.5",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/color-ext.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "color-ext@github:beatthat/color-ext#semver:^1.0.0",
+        "name": "color-ext",
+        "escapedName": "color-ext",
+        "rawSpec": "github:beatthat/color-ext#semver:^1.0.0",
+        "saveSpec": "github:beatthat/color-ext#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/color-ext/Runtime/color-ext",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/color-ext/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/color-ext",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/color-ext",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/color-ext",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/color-ext/Runtime/color-ext"
+      }
+    },
+    "safe-refs": {
+      "name": "safe-refs",
+      "version": "1.0.6",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/safe-refs.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "safe-refs@github:beatthat/safe-refs#semver:^1.0.0",
+        "name": "safe-refs",
+        "escapedName": "safe-refs",
+        "rawSpec": "github:beatthat/safe-refs#semver:^1.0.0",
+        "saveSpec": "github:beatthat/safe-refs#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/safe-refs/Runtime/safe-refs",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/safe-refs/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/safe-refs",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/safe-refs",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/safe-refs",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/safe-refs/Runtime/safe-refs"
+      }
+    },
+    "bindings": {
+      "name": "bindings",
+      "version": "1.0.2",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/bindings.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "bindings@github:beatthat/bindings#semver:^1.0.0",
+        "name": "bindings",
+        "escapedName": "bindings",
+        "rawSpec": "github:beatthat/bindings#semver:^1.0.0",
+        "saveSpec": "github:beatthat/bindings#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/bindings/Runtime/bindings",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/bindings/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/bindings",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/bindings",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/bindings",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/bindings/Runtime/bindings"
+      }
+    },
+    "transform-path-ext": {
+      "name": "transform-path-ext",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/transform-path-ext.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "beatthat/transform-path-ext",
+        "rawSpec": "beatthat/transform-path-ext",
+        "saveSpec": "github:beatthat/transform-path-ext",
+        "fetchSpec": null,
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/transform-path-ext/Runtime/transform-path-ext",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/transform-path-ext/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/transform-path-ext",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/transform-path-ext",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/transform-path-ext",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/transform-path-ext/Runtime/transform-path-ext"
+      }
+    },
+    "gameobject-utils": {
+      "name": "gameobject-utils",
+      "version": "1.0.2",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/gameobject-utils.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "gameobject-utils@github:beatthat/gameobject-utils#semver:^1.0.0",
+        "name": "gameobject-utils",
+        "escapedName": "gameobject-utils",
+        "rawSpec": "github:beatthat/gameobject-utils#semver:^1.0.0",
+        "saveSpec": "github:beatthat/gameobject-utils#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/gameobject-utils/Runtime/gameobject-utils",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/gameobject-utils/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/gameobject-utils",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/gameobject-utils",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/gameobject-utils",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/gameobject-utils/Runtime/gameobject-utils"
+      }
+    },
+    "get-components-ext": {
+      "name": "get-components-ext",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/get-components-ext.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "get-components-ext@github:beatthat/get-components-ext#semver:^1.0.0",
+        "name": "get-components-ext",
+        "escapedName": "get-components-ext",
+        "rawSpec": "github:beatthat/get-components-ext#semver:^1.0.0",
+        "saveSpec": "github:beatthat/get-components-ext#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/get-components-ext/Runtime/get-components-ext",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/get-components-ext/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/get-components-ext",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/get-components-ext",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/get-components-ext",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/get-components-ext/Runtime/get-components-ext"
+      }
+    },
+    "on-apply-prefab-behaviours": {
+      "name": "on-apply-prefab-behaviours",
+      "version": "1.0.4",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/on-apply-prefab-behaviours.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "on-apply-prefab-behaviours@github:beatthat/on-apply-prefab-behaviours#semver:^1.0.0",
+        "name": "on-apply-prefab-behaviours",
+        "escapedName": "on-apply-prefab-behaviours",
+        "rawSpec": "github:beatthat/on-apply-prefab-behaviours#semver:^1.0.0",
+        "saveSpec": "github:beatthat/on-apply-prefab-behaviours#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/on-apply-prefab-behaviours/Runtime/on-apply-prefab-behaviours",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/on-apply-prefab-behaviours/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/on-apply-prefab-behaviours",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/on-apply-prefab-behaviours",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/on-apply-prefab-behaviours",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/on-apply-prefab-behaviours/Runtime/on-apply-prefab-behaviours"
+      }
+    },
+    "manage-prefab-instances": {
+      "name": "manage-prefab-instances",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/manage-prefab-instances.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "manage-prefab-instances@github:beatthat/manage-prefab-instances#semver:^1.0.0",
+        "name": "manage-prefab-instances",
+        "escapedName": "manage-prefab-instances",
+        "rawSpec": "github:beatthat/manage-prefab-instances#semver:^1.0.0",
+        "saveSpec": "github:beatthat/manage-prefab-instances#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/manage-prefab-instances/Runtime/manage-prefab-instances",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/manage-prefab-instances/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/manage-prefab-instances",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/manage-prefab-instances",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/manage-prefab-instances",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/manage-prefab-instances/Runtime/manage-prefab-instances"
+      }
+    },
+    "optional-components": {
+      "name": "optional-components",
+      "version": "1.0.6",
+      "config": {
+        "scope": "beatthat"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/optional-components.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "optional-components@github:beatthat/optional-components#semver:^1.0.0",
+        "name": "optional-components",
+        "escapedName": "optional-components",
+        "rawSpec": "github:beatthat/optional-components#semver:^1.0.0",
+        "saveSpec": "github:beatthat/optional-components#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/optional-components/Runtime/optional-components",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/optional-components/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/optional-components",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/optional-components",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/optional-components",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/optional-components/Runtime/optional-components"
+      }
+    },
+    "property-interfaces": {
+      "name": "property-interfaces",
+      "version": "1.0.8",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/property-interfaces.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "property-interfaces@github:beatthat/property-interfaces#semver:^1.0.0",
+        "name": "property-interfaces",
+        "escapedName": "property-interfaces",
+        "rawSpec": "github:beatthat/property-interfaces#semver:^1.0.0",
+        "saveSpec": "github:beatthat/property-interfaces#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/property-interfaces/Runtime/property-interfaces",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/property-interfaces/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/property-interfaces",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/property-interfaces",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/property-interfaces",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/property-interfaces/Runtime/property-interfaces"
+      }
+    },
+    "controller-interfaces": {
+      "name": "controller-interfaces",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/controller-interfaces.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "controller-interfaces@github:beatthat/controller-interfaces#semver:^1.0.0",
+        "name": "controller-interfaces",
+        "escapedName": "controller-interfaces",
+        "rawSpec": "github:beatthat/controller-interfaces#semver:^1.0.0",
+        "saveSpec": "github:beatthat/controller-interfaces#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/controller-interfaces/Runtime/controller-interfaces",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/controller-interfaces/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/controller-interfaces",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/controller-interfaces",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/controller-interfaces",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/controller-interfaces/Runtime/controller-interfaces"
+      }
+    },
+    "rect-utils": {
+      "name": "rect-utils",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/rect-utils.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "rect-utils@github:beatthat/rect-utils#semver:^1.0.0",
+        "name": "rect-utils",
+        "escapedName": "rect-utils",
+        "rawSpec": "github:beatthat/rect-utils#semver:^1.0.0",
+        "saveSpec": "github:beatthat/rect-utils#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/rect-utils/Runtime/rect-utils",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/rect-utils/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/rect-utils",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/rect-utils",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/rect-utils",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/rect-utils/Runtime/rect-utils"
+      }
+    },
+    "gizmo-settings": {
+      "name": "gizmo-settings",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-scope/gizmo-settings.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "gizmo-settings@github:beatthat/gizmo-settings#semver:^1.0.0",
+        "name": "gizmo-settings",
+        "escapedName": "gizmo-settings",
+        "rawSpec": "github:beatthat/gizmo-settings#semver:^1.0.0",
+        "saveSpec": "github:beatthat/gizmo-settings#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/gizmo-settings/Runtime/gizmo-settings",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/gizmo-settings/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/gizmo-settings",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/gizmo-settings",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/gizmo-settings",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/gizmo-settings/Runtime/gizmo-settings"
+      }
+    },
+    "placements": {
+      "name": "placements",
+      "version": "1.0.6",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/placements.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "placements@github:beatthat/placements#semver:^1.0.0",
+        "name": "placements",
+        "escapedName": "placements",
+        "rawSpec": "github:beatthat/placements#semver:^1.0.0",
+        "saveSpec": "github:beatthat/placements#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/placements/Runtime/placements",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/placements/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/placements",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/placements",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/placements",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/placements/Runtime/placements"
+      }
+    },
+    "type-utils": {
+      "name": "type-utils",
+      "version": "1.0.3",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/type-utils.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "type-utils@github:beatthat/type-utils#semver:^1.0.0",
+        "name": "type-utils",
+        "escapedName": "type-utils",
+        "rawSpec": "github:beatthat/type-utils#semver:^1.0.0",
+        "saveSpec": "github:beatthat/type-utils#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/type-utils/Runtime/type-utils",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/type-utils/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/type-utils",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/type-utils",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/type-utils",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/type-utils/Runtime/type-utils"
+      }
+    },
+    "notifications": {
+      "name": "notifications",
+      "version": "1.0.5",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/unity-notifications.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "notifications@github:beatthat/notifications#semver:^1.0.0",
+        "name": "notifications",
+        "escapedName": "notifications",
+        "rawSpec": "github:beatthat/notifications#semver:^1.0.0",
+        "saveSpec": "github:beatthat/notifications#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/notifications/Runtime/notifications",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/notifications/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/notifications",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/notifications",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/notifications",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/notifications/Runtime/notifications"
+      }
+    },
+    "services": {
+      "name": "services",
+      "version": "1.0.14",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/services.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "services@github:beatthat/services#semver:^1.0.0",
+        "name": "services",
+        "escapedName": "services",
+        "rawSpec": "github:beatthat/services#semver:^1.0.0",
+        "saveSpec": "github:beatthat/services#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/services/Runtime/services",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/services/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/services",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/services",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/services",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/services/Runtime/services"
+      }
+    },
+    "binding-behaviours": {
+      "name": "binding-behaviours",
+      "version": "1.0.2",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/binding-behaviours.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "binding-behaviours@github:beatthat/binding-behaviours#semver:^1.0.0",
+        "name": "binding-behaviours",
+        "escapedName": "binding-behaviours",
+        "rawSpec": "github:beatthat/binding-behaviours#semver:^1.0.0",
+        "saveSpec": "github:beatthat/binding-behaviours#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/binding-behaviours/Runtime/binding-behaviours",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/binding-behaviours/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/binding-behaviours",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/binding-behaviours",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/binding-behaviours",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/binding-behaviours/Runtime/binding-behaviours"
+      }
+    },
+    "commands-core": {
+      "name": "commands-core",
+      "version": "1.0.2",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/commands-core.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "commands-core@github:beatthat/commands-core#semver:^1.0.0",
+        "name": "commands-core",
+        "escapedName": "commands-core",
+        "rawSpec": "github:beatthat/commands-core#semver:^1.0.0",
+        "saveSpec": "github:beatthat/commands-core#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/commands-core/Runtime/commands-core",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/commands-core/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/commands-core",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/commands-core",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/commands-core",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/commands-core/Runtime/commands-core"
+      }
+    },
+    "color-assets": {
+      "name": "color-assets",
+      "version": "1.0.3",
+      "config": {
+        "scope": "ape"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/color-assets.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "color-assets@github:beatthat/color-assets#semver:^1.0.0",
+        "name": "color-assets",
+        "escapedName": "color-assets",
+        "rawSpec": "github:beatthat/color-assets#semver:^1.0.0",
+        "saveSpec": "github:beatthat/color-assets#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/color-assets/Runtime/color-assets",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/color-assets/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/color-assets",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/color-assets",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/color-assets",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/color-assets/Runtime/color-assets"
+      }
+    },
+    "controllers": {
+      "name": "controllers",
+      "version": "1.0.4",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/controllers.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "controllers@github:beatthat/controllers#semver:^1.0.0",
+        "name": "controllers",
+        "escapedName": "controllers",
+        "rawSpec": "github:beatthat/controllers#semver:^1.0.0",
+        "saveSpec": "github:beatthat/controllers#semver:^1.0.0",
+        "fetchSpec": null,
+        "gitRange": "^1.0.0",
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/controllers/Runtime/controllers",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/controllers/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/controllers",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/controllers",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/controllers",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/controllers/Runtime/controllers"
+      }
+    },
+    "property-bindings": {
+      "name": "property-bindings",
+      "version": "1.0.5",
+      "config": {},
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beatthat/property-bindings.git"
+      },
+      "_requested": {
+        "type": "git",
+        "raw": "beatthat/property-bindings",
+        "rawSpec": "beatthat/property-bindings",
+        "saveSpec": "github:beatthat/property-bindings",
+        "fetchSpec": null,
+        "gitCommittish": null
+      },
+      "package_unity_src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/property-bindings/Runtime/property-bindings",
+      "package_unity_samples": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/property-bindings/Samples",
+      "unity_install_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/property-bindings",
+      "unity_install_samples_path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Samples/packages/beatthat/property-bindings",
+      "unity_install": {
+        "path": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/Assets/Plugins/packages/beatthat/property-bindings",
+        "src": "/Users/larryk/unity-npm-utils-packages/property-bindings-text-mesh-pro/node_modules/property-bindings/Runtime/property-bindings"
+      }
+    }
+  }
+}
