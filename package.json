@@ -1,7 +1,7 @@
 {
   "name": "property-bindings-text-mesh-pro",
   "scope": "beatthat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Property wrapper classes for TextMeshPro, e.g. TextMeshProHasText",
   "main": "index.js",
   "scripts": {
