@@ -7,10 +7,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "node scripts/postinstall.js",
-    "preinstall:test": "rm -f *.tgz",
     "clean": "rm -f *.tgz package-lock.json && cd test && npm run clean",
     "version": "git add -A",
     "postversion": "git push && git push --tags && npm run clean",
+    "pretest-install": "rm -f *.tgz",
     "template-update": "node scripts/template-update.js",
     "test-install": "npm pack && cp ${npm_package_name}-${npm_package_version}.tgz ${npm_package_name}-latest.tgz && cd test && npm run clean && npm install",
     "test-cp2src": "cd test && node scripts/cp2src.js",
@@ -22,7 +22,8 @@
       "test-cp2src": "copies changes from 'test' package back to package src but does NOT delete removed files",
       "test-overwrite2src": "copies changes from 'test' package back to src. Deletes src before the copy, so effectively whatever is in test becomes the src",
       "npm version [patch|minor|major]": "after everything commited, use npm version to push a tagged release with bumped version"
-    }
+    },
+    "pretest-install": "rm -f *.tgz"
   },
   "repository": {
     "type": "git",
