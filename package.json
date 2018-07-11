@@ -1,7 +1,7 @@
 {
   "name": "property-bindings-text-mesh-pro",
   "scope": "beatthat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Property wrapper classes for TextMeshPro, e.g. TextMeshProHasText",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,7 @@
       "test-cp2src": "copies changes from 'test' package back to package src but does NOT delete removed files",
       "test-overwrite2src": "copies changes from 'test' package back to src. Deletes src before the copy, so effectively whatever is in test becomes the src",
       "npm version [patch|minor|major]": "after everything commited, use npm version to push a tagged release with bumped version"
-    },
-    "pretest-install": "rm -f *.tgz"
+    }
   },
   "repository": {
     "type": "git",
